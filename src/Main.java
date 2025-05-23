@@ -11,6 +11,8 @@ public class Main {
         System.out.println("Autonomia máxima do veículo: " + autMax);
         System.out.println("Autonomia ATUAL do veículo: " + autAtu);
 
+        System.out.println("Aasdiaopsdkopaskd");
+
         if(distanciaViagem < autAtu){
             System.out.println("Você conseguirá completar a viagem sem precisar abastecer.");
         }else{
