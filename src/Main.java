@@ -17,8 +17,5 @@ public class Main {
             System.out.println("Voce não tem vombustivel suficiente");
         }
 
-
-        System.out.println("O lucas é zika");
-
     }
 }
